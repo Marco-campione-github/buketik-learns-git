@@ -1,5 +1,5 @@
 def love_buket():
-    messages = {
+    buket_messages = {
         "English": "I love you Buket ❤️",
         "Italian": "Ti amo Buket ❤️",
         "German": "Ich liebe dich Buket ❤️",
@@ -9,12 +9,11 @@ def love_buket():
         "Portuguese": "Eu te amo Buket ❤️",
         "Dutch": "Ik hou van jou Buket ❤️",
         "Polish": "Kocham cię Buket ❤️",
-        "Swedish": "Jag älskar dig Buket ❤️"
     }
 
     print("Demonstrating how much I love Buket in different languages:\n")
 
-    for language, text in messages.items():
+    for language, text in buket_messages.items():
         print(f"{language}: {text}")
 
 
