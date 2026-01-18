@@ -3,7 +3,7 @@ def love_buket():
         "English": "I love you Buket ❤️",
         "Italian": "Ti amo Buket ❤️",
         "German": "Ich liebe dich Buket ❤️",
-        "Turkish": "Seni seviyorum Buket ❤️",
+        "Turkish": "Seni seviyorum lannnn Buket ❤️",
         "Spanish": "Te amo Buket ❤️",
         "French": "Je t'aime Buket ❤️",
         "Portuguese": "Eu te amo Buket ❤️",
